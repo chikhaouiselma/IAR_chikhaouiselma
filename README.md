@@ -1,3 +1,3 @@
 # IAR_chikhaouiselma
-La Reconnaissance des lettres arabes maniscrutes par les Reseau de neurones et la couche CNN de Deeplearning
+La Reconnaissance des lettres arabes manuscrites par les Reseau de neurones  MLP et la couche CNN 
 
